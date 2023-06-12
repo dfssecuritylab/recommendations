@@ -4,11 +4,9 @@ The DFS security assurance framework follows similar principles from the ISO/IEC
 
 This framework consists of the following components:
 
-a)      A security risk assessment based on ISO/IEC 27005 –Security techniques -Information security risk management.
-
-b)      Assessment of threats and vulnerabilities to the underlying infrastructure, DFS applications, services, network operations and third-party providers involved in the ecosystem for DFS delivery (Section 8).
-
-c)      Mitigation strategies based on the outcome of (b) above.
+1. A security risk assessment based on ISO/IEC 27005 –Security techniques -Information security risk management.
+2. Assessment of threats and vulnerabilities to the underlying infrastructure, DFS applications, services, network operations and third-party providers involved in the ecosystem for DFS delivery (Section 8).
+3. Mitigation strategies based on the outcome of (2) above.
 
 This framework identifies
 
