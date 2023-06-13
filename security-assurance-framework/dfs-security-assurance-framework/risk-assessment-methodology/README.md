@@ -40,7 +40,9 @@ The risk assessment helps stakeholders to get indicative measures of the current
 
 The overview of the process flow is shown below.
 
-Risk Identification
+<figure><img src="../../.gitbook/assets/Risk assesment proccess flow.png" alt=""><figcaption><p>Risk assessment process flow</p></figcaption></figure>
+
+**Risk Identification**
 
 Risk identification is to determine what, how, where and why DFS vulnerabilities might be exploited, this involves identifying critical DFS assets, associated threats and vulnerabilities, probability of occurrence, weaknesses in existing controls, impact or consequences of threats and vulnerabilities once exploited. In the process of risk identification, the stakeholder should be cognizant of the internal and external considerations in section 7.2 above.
 
