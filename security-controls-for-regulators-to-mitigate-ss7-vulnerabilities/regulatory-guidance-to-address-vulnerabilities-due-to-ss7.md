@@ -1,0 +1,11 @@
+# Regulatory guidance to address vulnerabilities due to SS7
+
+1. **Regulatory coordination: -** a bilateral Memorandum of Understanding (MOU) related DFS should be in place between the telecommunications regulator and the Central Bank on SS7. A sample MOU is included at Annex B of the [Technical report on SS7 vulnerabilities and mitigation measures for digital financial services transactions](https://www.itu.int/en/ITU-T/extcoop/figisymposium/Documents/ITU\_SIT\_WG\_Technical%20report%20on%20the%20SS7%20vulnerabilities%20and%20their%20impact%20on%20DFS%20transactions\_f.pdf). The MOU should include modalities around the creation of a Joint Working Committee on DFS security and risk-related matters that address SS7.
+2. **Incentivize the industry** - create incentive programs with industry to promote the development of countermeasures in the Telcom-DFS anti-fraud field.
+3. **Incentivize the operators and providers** - create regulation that passes the financial damage from DFS fraud to the DFS providers and to the telcos, creating a financial incentive for action.
+4. **Education for telecom and financial services regulators on SS7 vulnerabilities and impact to DFS** - telecom and financial regulators around the world needs to be aware of the risks and most importantly be aware that there are available solutions to mitigate these risks.
+5.  **IMSI validation gateway**: An IMSI validation gateway can be used to validate to Digital Financial Services Providers and banks that the real, registered customer is using the system via USSD for DFSPs to detect USSD interception.
+
+    <figure><img src="../ss7-mitigations/.gitbook/assets/image (1).png" alt=""><figcaption><p>An IMSI validation gateway - Telecom operators can share information about the connected SIM details to the DFS providers</p></figcaption></figure>
+6. **Telecom regulators to establish baseline security measures for each category (2G/3G/4G/5G)** - Telecom regulators are encouraged to establish baseline security measures for each category (2G/3G/4G/5G) which should be implemented by telecom operators to ensure a more secure interconnection environment.
+7. **Mobile** **Network operators and DFS operators should consider adopting controls on SS7 - see MNO and DFS controls**
