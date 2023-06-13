@@ -1,0 +1,4 @@
+# Regulatory guidance to mitigate SIM risks
+
+1. **Regulatory coordination: -** a bilateral Memorandum of Understanding (MOU) related DFS should be in place between the telecommunications regulator and the Central Bank on SIM swaps. A sample MOU is included at Annex B of the [Technical report on SS7 vulnerabilities and mitigation measures for digital financial services transactions](https://www.itu.int/en/ITU-T/extcoop/figisymposium/Documents/ITU\_SIT\_WG\_Technical%20report%20on%20the%20SS7%20vulnerabilities%20and%20their%20impact%20on%20DFS%20transactions\_f.pdf)
+2. **Regulators should encourage Mobile network operators to adopt appropriate controls to mitigate SIM risk and Fraud (see** [**Mobile network operator**](mobile-network-operator-controls-to-mitigate-sim-risks-and-fraud.md) **controls and** [**DFS operator controls**](dfs-operators-controls-to-mitigate-sim-risks-and-fraud.md)**).**
